@@ -13,7 +13,7 @@
 - Javascript
 
 ## Current Projects
-- [Project name](link) — short description
+- git and github(link) — short description
 
 ## How to Reach Me
 - Email: letemakutto00@gmail.com
